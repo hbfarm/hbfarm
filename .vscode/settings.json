@@ -1,6 +1,0 @@
-{
-    "workbench.activityBar.iconClickBehavior": "toggle",
-    "workbench.colorTheme": "Visual Studio Dark",
-    "python.linting.pylintArgs": ["--disable=C0111"]
-    
-}
